@@ -26,7 +26,7 @@
 
 ###
 
-<br>- grinding...</p>
+grinding...</p>
 
 ###
 
