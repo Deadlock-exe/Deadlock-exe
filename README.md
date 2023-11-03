@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I am Aditya Gupta <br><br>- grinding...</p>
+<br>- grinding...</p>
 
 ###
 
