@@ -69,6 +69,3 @@ grinding...</p>
 
 ###
 
-![](https://komarev.com/ghpvc/?username=Deadlock-exe&abbreviated=true)
-
-###
