@@ -68,5 +68,5 @@ grinding...</p>
 </div>
 
 ###
-
+[![](https://visitcount.itsvg.in/api?id=Deadlock-exe&icon=2&color=12)](https://visitcount.itsvg.in)
 ###
