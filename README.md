@@ -69,8 +69,6 @@ grinding...</p>
 
 ###
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Deadlock-exe&label=Profile%20Views&color=12&icon=2&pretty=true" />
-</a>
+![](https://komarev.com/ghpvc/?username=Deadlock-exe&abbreviated=true)
 
 ###
