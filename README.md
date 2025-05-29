@@ -2,7 +2,6 @@
   <img height="150" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"/>
 </div>
 
----
 
 <div align="center">
   <a href="https://www.linkedin.com/in/aditya-gupta-53625b255/" target="_blank">
@@ -13,11 +12,9 @@
   </a>
 </div>
 
----
-
-<h1 align="center">Hi, I'm Aditya😼</h1>
 
 <div align="center">
+  <h1 align="center">Hi, I'm Aditya😼</h1>
   <b>20 | Builder | Developer | Founder(hopefully)</b><br/>
   Currently building apps with brains
 </div>
